@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/0a3764e5-5cf2-49c6-993f-fb4875390bfe)
 
 🤖 Prodigy Task-3 - Decision Tree Classifier
 
